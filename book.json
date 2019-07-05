@@ -1,0 +1,22 @@
+{
+    "plugins": [ 
+        "github", 
+        "search",
+        "sharing",
+        "highlight"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://www.github.com/tinoism/AlwaysLearning"
+        }
+    },
+    "links": {
+        "sidebar": {
+            "About Me": "https://www.christina-cheung.com"
+        }
+    },
+    "sharing": {
+        "facebook": true,
+        "linkedin": true
+    }
+}
