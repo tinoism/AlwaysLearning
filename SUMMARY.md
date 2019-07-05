@@ -1,7 +1,8 @@
 # Summary
 
-* [Weekly Snippet](WeeklySnippet/README.md)
-  * [June 2019 — Week 4](DailySnippets/JuneWeekFour.md)
-  * [July 2019 — Week 1](DailySnippets/JulyWeekOne.md)
-* [LeetCode](chapter2/README.md)
+### Weekly Snippet
+* [Introduction](WeeklySnippet/README.md)
+  * [June 2019 — Week 4](WeeklySnippet/JuneWeekFour.md)
+  * [July 2019 — Week 1](WeeklySnippet/JulyWeekOne.md)
+* [LeetCode](Leetcode/README.md)
 
